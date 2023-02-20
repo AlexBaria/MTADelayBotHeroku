@@ -22,11 +22,11 @@ import csv
 import difflib
 import datetime as dt
 
-# mtadelaybot@gmail.com keys
-consumer_key = 'aqkD8HhCYeJT5rYvF2VXa09dA'
-consumer_secret = '0P5KOQQwD1VjfBzJlOB62hReOdETVj2qp8RwT2VDKFlbH2HPSs'
-access_key = '873036002226388997-d5TUF6BeMOiOZTP3qpdl172ESLF6dy7'
-access_secret = 'thg7RZfonucmdMmsJlj776Sr0zGBAxoZFrlCOhTsD1on8'
+# ADD KEYS HERE
+# consumer_key = ''
+# consumer_secret = ''
+# access_key = ''
+# access_secret = ''
 
 CONSUMER_KEY = consumer_key
 CONSUMER_SECRET = consumer_secret
